@@ -1,19 +1,17 @@
-Seja bem vindo(a),
+Welcome
 
-Olá! Sou uma estudante apaixonada por tecnologia e desenvolvimento web. Atualmente, estou cursando o 2º semestre de Tecnologia em Sistemas para Internet no Instituto Federal. 
-Estou sempre em busca de novos aprendizados e experiências na área.
+Hello! I am a student passionate about technology and web development. I am currently studying the 2nd semester of Internet Systems Technology at the Federal Institute.
+I am always looking for new learning and experiences in the area.
 
-Tecnologias e Ferramentas:
+Technologies and Tools:
+- Languages: HTML, CSS, JavaScript, Java.
+- Tools: Git, GitHub.
 
-- Linguagens: HTML, CSS, JavaScript, Java.  
-- Ferramentas: Git, GitHub.
-
- Projetos:
-
-Em breve irei documentar aqui alguns dos projetos e atividades desenvolvidos durante meu curso e outros projetos pessoais.
+ Projects:
+ I'm currently working on a personal website project to offer marketing services. I'm also in a project with other beginner colleagues, we are creating a 2D game called Erus - Ruins of time
 
 
- Entre em Contato:
+ Contact:
 
 - 📧 Email: luanajuliao15@gmail.com
 - 🔗 LinkedIn: https://www.linkedin.com/in/luana-juli%C3%A3o-a74340101/
