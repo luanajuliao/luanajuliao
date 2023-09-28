@@ -1,5 +1,3 @@
-Welcome
-
 Hello! I am a student passionate about technology and web development. I am currently studying the 2nd semester of Internet Systems Technology at the Federal Institute.
 I am always looking for new learning and experiences in the area.
 
