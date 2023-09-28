@@ -20,8 +20,7 @@ Technologies and Tools:
 
 <a href="https://100-dias-de-codigo-github-readme.vercel.app/?username=luanajuliao_">
   <img src="https://100-dias-de-codigo-github-readme.vercel.app/?username=luanajuliao_" width="450" height="195" alt="Progresso 100 dias de codigo">
-</a>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiluanajuliaoanuraghazra&show_icons=true&theme=dracula)
+</a> 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiluanajuliaoanuraghazra&show_icons=true&theme=radical)
 
 
