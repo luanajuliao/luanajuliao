@@ -23,5 +23,5 @@ Technologies and Tools:
 </a> 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luanajuliao&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiluanajuliaoanuraghazra&show_icons=true&theme=radical)
 
