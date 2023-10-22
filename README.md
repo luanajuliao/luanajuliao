@@ -16,12 +16,5 @@ Technologies and Tools:
 - 📧 Email: luanajuliao15@gmail.com
 - 🔗 LinkedIn: https://www.linkedin.com/in/luana-juli%C3%A3o-a74340101/
   
-----------------------------------------------------------------------------------------------------------------------------------------
 
-<a href="https://100-dias-de-codigo-github-readme.vercel.app/?username=luanajuliao_">
-  <img src="https://100-dias-de-codigo-github-readme.vercel.app/?username=luanajuliao_" width="450" height="195" alt="Progresso 100 dias de codigo">
-</a> 
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiluanajuliaoanuraghazra&show_icons=true&theme=radical)
 
