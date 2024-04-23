@@ -5,10 +5,7 @@ Technologies and Tools:
 - Languages: HTML, CSS, JavaScript, Java.
 - Tools: Git, GitHub.
 
- Projects:
- I'm currently working on a personal website project to offer marketing services. I'm also in a project with other beginner colleagues, we are creating a 2D game called Erus - Ruins of time
-
- Member of the community [He4rt](https://github.com/he4rt)
+ 
 
 
  Contact:
